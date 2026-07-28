@@ -35,7 +35,7 @@ announcement yourself.
 
 A mixed audience: engineering leaders, security leaders, and individual developers —
 some already on GitHub, some evaluating it, with varying levels of AI adoption maturity.
-The goal is to **educate, not to sell**: describe what shipped and why it matters, and
+The goal is to **educate**: describe what shipped and why it matters, and
 let the value speak for itself.
 
 ## Subscribing and participating
